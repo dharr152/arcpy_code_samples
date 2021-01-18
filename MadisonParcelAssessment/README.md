@@ -1,1 +1,3 @@
 This folder contains a python toolbox to analyze parcels in the Madison metropolitan area.  The analysis generates an interpolated surface of the property cost within the urban boundary, and evaluates several characteristics to identify optimal development locations on top of that interpolation.  A jupyter notebook is included to outline how to use the toolbox in the ArcGIS environment, as well as an img folder to generate graphics in the notebook when downloaded to a local machine.  
+
+The toolbox was developed as anassignment as part of the MS in GIS program at John's Hopkins University. 
